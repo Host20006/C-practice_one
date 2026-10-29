@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\test1\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\hp\Desktop\test1\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\hp\Desktop\test1\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\hp\Desktop\test1\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\test1\assignment\assignment\obj\Debug\assignment.Form1.resources
+C:\Users\hp\Desktop\test1\assignment\assignment\obj\Debug\assignment.Properties.Resources.resources
+C:\Users\hp\Desktop\test1\assignment\assignment\obj\Debug\assignment.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\test1\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\test1\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\hp\Desktop\test1\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\hp\Desktop\test1\assignment\assignment\obj\Debug\assignment.exe.config
