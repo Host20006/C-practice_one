@@ -1,0 +1,11 @@
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\bin\Debug\Files.exe.config
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\bin\Debug\Files.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\bin\Debug\Files.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\obj\Debug\Files.csproj.AssemblyReference.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\obj\Debug\Files.Form1.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\obj\Debug\Files.Properties.Resources.resources
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\obj\Debug\Files.csproj.GenerateResource.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\obj\Debug\Files.exe
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\obj\Debug\Files.pdb
+C:\Users\sadri\OneDrive\Desktop\c#\chapter1\First example chapter1\Files\Files\obj\Debug\Files.exe.config
